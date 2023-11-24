@@ -1,0 +1,12 @@
+{
+    "name": "openmage-strict/module-customer",
+    "description": "Mage_Customer",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-dataflow": "*",
+        "openmage-strict/module-directory": "*",
+        "openmage-strict/module-eav": "*"
+    }
+}

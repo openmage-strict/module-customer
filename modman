@@ -1,0 +1,9 @@
+src/app/code/core/Mage/Customer/                                     app/code/core/Mage/Customer/
+src/app/design/adminhtml/default/default/layout/customer.xml         app/design/adminhtml/default/default/layout/customer.xml
+src/app/design/adminhtml/default/default/template/customer/          app/design/adminhtml/default/default/template/customer/
+src/app/design/frontend/base/default/layout/customer.xml             app/design/frontend/base/default/layout/customer.xml
+src/app/design/frontend/base/default/template/customer/              app/design/frontend/base/default/template/customer/
+src/app/design/frontend/rwd/default/layout/customer.xml              app/design/frontend/rwd/default/layout/customer.xml
+src/app/design/frontend/rwd/default/template/customer/               app/design/frontend/rwd/default/template/customer/
+src/app/etc/modules/Mage_Customer.xml                                app/etc/modules/Mage_Customer.xml
+src/app/locale/en_US/Mage_Customer.csv                               app/locale/en_US/Mage_Customer.csv
