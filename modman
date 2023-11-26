@@ -10,6 +10,6 @@ src/app/locale/en_US/Mage_Customer.csv                                          
 src/app/locale/en_US/template/email/account_new.html                            app/locale/en_US/template/email/account_new.html
 src/app/locale/en_US/template/email/account_new_confirmation.html               app/locale/en_US/template/email/account_new_confirmation.html
 src/app/locale/en_US/template/email/account_new_confirmed.html                  app/locale/en_US/template/email/account_new_confirmed.html
-src/app/locale/en_US/template/email/account_password_reset_confirmation.html    app/locale/en_US/template/email/account_new_confirmed.html
+src/app/locale/en_US/template/email/account_password_reset_confirmation.html    app/locale/en_US/template/email/account_password_reset_confirmation.html
 src/app/locale/en_US/template/email/password_new.html                           app/locale/en_US/template/email/password_new.html
 src/app/locale/en_US/template/email/password_or_email_changed.html              app/locale/en_US/template/email/password_or_email_changed.html
