@@ -5,8 +5,8 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "openmage-strict/module-dataflow": "*",
-        "openmage-strict/module-directory": "*",
-        "openmage-strict/module-eav": "*"
+        "openmage-strict/module-dataflow": "^120.2",
+        "openmage-strict/module-directory": "^120.2",
+        "openmage-strict/module-eav": "^120.2"
     }
 }
