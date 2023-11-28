@@ -18,7 +18,7 @@
 <layout>
     <adminhtml_customer_edit>
         <reference name="content">
-            <block type="adminhtml/customer_edit" name="customer_edit"></block>
+            <block type="adminhtml/customer_edit" name="customer_edit"/>
         </reference>
         <reference name="head">
             <block type="adminhtml/template" name="optional_zip_countries" as="optional_zip_countries" template="directory/js/optional_zip_countries.phtml" />
@@ -35,12 +35,13 @@
             </block>
         </reference>
         <reference name="js">
-            <block type="adminhtml/template" template="customer/edit/js.phtml" name="customer.edit.js" as="customer_edit_js"></block>
+            <block type="adminhtml/template" template="customer/edit/js.phtml" name="customer.edit.js"
+                   as="customer_edit_js"/>
         </reference>
     </adminhtml_customer_edit>
     <adminhtml_customer_group_index>
         <reference name="content">
-            <block type="adminhtml/customer_group" name="customer_group"></block>
+            <block type="adminhtml/customer_group" name="customer_group"/>
         </reference>
     </adminhtml_customer_group_index>
     <adminhtml_customer_wishlist>

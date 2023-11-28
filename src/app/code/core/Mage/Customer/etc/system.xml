@@ -499,7 +499,7 @@
                 <store_information>
                     <fields>
                         <validate_vat_number translate="button_label">
-                            <label></label>
+                            <label/>
                             <button_label>Validate VAT Number</button_label>
                             <frontend_model>adminhtml/customer_system_config_validatevat</frontend_model>
                             <sort_order>28</sort_order>
