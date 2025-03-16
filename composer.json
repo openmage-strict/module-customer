@@ -7,6 +7,8 @@
         "magento-hackathon/magento-composer-installer": "*",
         "openmage-strict/module-dataflow": "^120.2",
         "openmage-strict/module-directory": "^120.2",
-        "openmage-strict/module-eav": "^120.2"
+        "openmage-strict/module-eav": "^120.2",
+        "zf1s/zend-db": "*",
+        "zf1s/zend-validate": "*"
     }
 }
